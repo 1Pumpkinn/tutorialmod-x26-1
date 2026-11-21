@@ -10,8 +10,8 @@ public class ModItemIds {
 
     public static final ResourceKey<Item> METH = create("meth");
     public static ResourceKey<Item> create(String name) {
-        // Creates the Item Key'
 
+        // Creates the Item Key
         return ResourceKey.create(Registries.ITEM, TutorialModX261.id(name));
     }
 

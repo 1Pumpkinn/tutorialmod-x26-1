@@ -22,9 +22,6 @@ public class TutorialModX261 implements ModInitializer {
 
 		LOGGER.info("Hello Fabric world!");
 		ModItems.initialize();
-
-
-
 	}
 
 	public static Identifier id(String path) {
