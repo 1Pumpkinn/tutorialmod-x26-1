@@ -17,6 +17,7 @@ public class ModCreativeTab {
             .title(Component.translatable("creativetab.tutorialmod"))
             .displayItems((params, output) -> {
                 output.accept(ModItems.METH);
+                output.accept(ModItems.BONE_MARROW);
             }).build();
 
     public static final ResourceKey<CreativeModeTab> TUTORIALMOD_CREATIVE_TAB_KEY = ResourceKey.create(
