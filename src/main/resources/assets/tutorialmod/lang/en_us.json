@@ -1,5 +1,7 @@
 {
   "item.tutorialmod.meth": "Just a purple Powder",
   "item.tutorialmod.bone_marrow": "Bone Marrow",
-  "creativetab.tutorialmod": "Tutorial Mod Tab"
+  "creativetab.tutorialmod": "Tutorial Mod Tab",
+
+  "effect.tutorialmod.tater": "Tater"
 }
